@@ -139,10 +139,10 @@ header {
     text-align: center;
     padding: 38px 0;
 }
-.portfolio-block:nth-child(even){
+.perk-block:nth-child(even){
     border: 5px solid #07203F;
 }
-.portfolio-block:nth-child(even) > div:nth-child(even) {
+.perk-block:nth-child(even) > div:nth-child(even) {
     background: #D9AA90;
 }
 
